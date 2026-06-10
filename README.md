@@ -163,3 +163,22 @@ maskot-auto-message-bot
 ├── requirements.txt
 └── README.md
 ```
+
+---
+
+## Destek ve İletişim
+
+Herhangi bir sorun, öneri veya iletişim için aşağıdaki adreslerden iletişime geçebilirsiniz:
+
+**Telegram**
+
+* @maskotxd
+* @maskotw
+
+**E-posta**
+
+* [maskotxdev@gmail.com](mailto:maskotxdev@gmail.com)
+
+**GitHub**
+
+* @maskotxd
