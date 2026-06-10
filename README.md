@@ -5,13 +5,13 @@
 GitHub reposunu klonlayın:
 
 ```bash
-git clone REPO_URL
+git clone https://github.com/maskotxd/maskot-auto-message-bot.git
 ```
 
 Klasöre girin:
 
 ```bash
-cd REPO_KLASORU
+cd maskot-auto-message-bot
 ```
 
 veya ZIP olarak indirip çıkartın.
